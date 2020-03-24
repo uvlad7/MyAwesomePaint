@@ -1,6 +1,8 @@
 # MyAwesomePaint
-run with
+Run with
 ```
 java -jar MyAwesomePaint.jar
 ```
-java 8 or higher required
+Java 8 or higher required
+
+You can see UML-diagram exported to png [here](https://github.com/uvlad7/MyAwesomePaint/blob/master/Main.png)
