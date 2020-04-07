@@ -8,14 +8,6 @@ import javafx.scene.paint.Color;
  */
 public abstract class AShape extends AFigure {
     /**
-     * @param point
-     */
-    @Override
-    public boolean intersects(Point2D point) {
-        return false;
-    }
-
-    /**
      *
      */
     boolean filled = true;

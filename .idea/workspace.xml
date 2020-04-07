@@ -6,7 +6,37 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c500c0f2-823b-4c7e-8c50-81ec26bb55ff" name="Default Changelist" comment="" />
+    <list default="true" id="c500c0f2-823b-4c7e-8c50-81ec26bb55ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyAwesomePaint.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MyAwesomePaint.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MyAwesomePaint_jar/MyAwesomePaint.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyAwesomePaint_jar/MyAwesomePaint.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/PaintArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/PaintArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/PaintPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/PaintPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/ABaseAndHeightFigure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/ABaseAndHeightFigure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/AFigure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/AFigure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/AShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/AShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Ellipse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Ellipse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/IsoscenesTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/IsoscenesTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Parallelogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Parallelogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/PolyLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/PolyLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Polygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Polygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Ray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Ray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/RectangularTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/RectangularTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/RegularPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/RegularPolygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Rhombus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Rhombus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Segment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Segment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Straight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAwesomePaint/my/model/Straight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/res/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my/model/AShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my/model/AShape.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,19 +64,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="d997fa2a-3a6a-4d90-b992-0111e2a5b531" />
   <component name="ProjectId" id="1YoMbGmr4sCOeRR79gDSHmSg8QQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
@@ -61,19 +97,23 @@
     <property name="project.structure.side.proportion" value="0.2954023" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.MyAwesomePaint.jar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="MyAwesomePaint" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyAwesomePaint.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/MyAwesomePaint_jar/MyAwesomePaint.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.MyAwesomePaint.jar" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -106,7 +146,11 @@
       <workItem from="1584609676074" duration="1187000" />
       <workItem from="1584642070533" duration="3735000" />
       <workItem from="1584850568394" duration="44483000" />
-      <workItem from="1584955465931" duration="39452000" />
+      <workItem from="1584955465931" duration="44275000" />
+      <workItem from="1585599448923" duration="580000" />
+      <workItem from="1586178763889" duration="1416000" />
+      <workItem from="1586283637932" duration="143000" />
+      <workItem from="1586283805760" duration="666000" />
     </task>
     <servers />
   </component>
@@ -114,10 +158,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583668185375">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586180505768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583668185375" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586180505768" />
     <state x="571" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1584910136122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -142,42 +186,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585083276011" />
-    <state width="1323" height="21" key="GridCell.Tab.0.bottom" timestamp="1585082636042">
+    <state width="661" height="94" key="GridCell.Tab.0.bottom" timestamp="1586284846322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585082636042" />
-    <state width="1323" height="21" key="GridCell.Tab.0.center" timestamp="1585082636042">
+    <state width="661" height="94" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586284846322" />
+    <state width="661" height="94" key="GridCell.Tab.0.center" timestamp="1586284846322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585082636042" />
-    <state width="1323" height="21" key="GridCell.Tab.0.left" timestamp="1585082636041">
+    <state width="661" height="94" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586284846322" />
+    <state width="661" height="94" key="GridCell.Tab.0.left" timestamp="1586284846322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585082636041" />
-    <state width="1323" height="21" key="GridCell.Tab.0.right" timestamp="1585082636042">
+    <state width="661" height="94" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586284846322" />
+    <state width="661" height="94" key="GridCell.Tab.0.right" timestamp="1586284846322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585082636042" />
-    <state width="1323" height="177" key="GridCell.Tab.1.bottom" timestamp="1585076296798">
+    <state width="661" height="94" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586284846322" />
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom" timestamp="1585387301893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585076296798" />
-    <state width="1323" height="177" key="GridCell.Tab.1.center" timestamp="1585076296797">
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585387301893" />
+    <state width="1323" height="177" key="GridCell.Tab.1.center" timestamp="1585387301863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585076296797" />
-    <state width="1323" height="177" key="GridCell.Tab.1.left" timestamp="1585076296797">
+    <state width="1323" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585387301863" />
+    <state width="1323" height="177" key="GridCell.Tab.1.left" timestamp="1585387301812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585076296797" />
-    <state width="1323" height="177" key="GridCell.Tab.1.right" timestamp="1585076296797">
+    <state width="1323" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585387301812" />
+    <state width="1323" height="177" key="GridCell.Tab.1.right" timestamp="1585387301864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585076296797" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1585083301925">
+    <state width="1323" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585387301864" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1586180279172">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585083301925" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1586180279172" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1586283856966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586283856966" />
     <state x="408" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583690981502">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -190,10 +238,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="131" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585074252383" />
-    <state x="379" y="96" width="737" height="606" key="find.popup" timestamp="1585081106007">
+    <state x="379" y="96" width="737" height="606" key="find.popup" timestamp="1585144242444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="96" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585081106007" />
+    <state x="379" y="96" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1585144242444" />
     <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584886876849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
